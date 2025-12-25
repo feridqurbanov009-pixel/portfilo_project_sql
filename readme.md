@@ -1,4 +1,4 @@
-# Port Project Data
+# Portfilo Project Data
 
 - /data/raw/ → Köhnə (original) data
 - /data/clean/ → Təmizlənmiş data
