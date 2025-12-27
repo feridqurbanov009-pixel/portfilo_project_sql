@@ -1,5 +1,5 @@
 # Portfilo Project Data
 
-- /data/raw/ → Köhnə (original) data
-- /data/clean/ → Təmizlənmiş data
-- /sql/ → SQL əmrləri
+- /data/raw/ → Raw (original) data
+- /data/clean/ → Clean data
+- /sql/ → SQL commands
